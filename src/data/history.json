@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Python Developer",
+      "organisation": "Techplememnt",
+      "startDate": "Sept, 2024",
+      "endDate": "October 2024",
+      "experiences": ["Worked in teams", "Build a project for payload systems"],
+      "imageSrc": "history/techplement_logo.jpeg"
+    },
+    {
+      "role": "IT Intern",
+      "organisation": "Youth India Foundation",
+      "startDate": "Aug, 2024",
+      "endDate": "Nov, 2024",
+      "experiences": ["Worked in graphics team mostly", "DEsigned different graphics "],
+      "imageSrc": "history/youthindia.jpeg"
+    },
+    {
+      "role": "Summer Intern",
+      "organisation": "Soch Pe Kharoch",
+      "startDate": "June, 2023",
+      "endDate": "July, 2023",
+      "experiences": [
+        "Worked as a social intern",
+        "Worked on different mental health related projects"
+      ],
+      "imageSrc": "history/sochpekharoch.jpeg"
+    }
+  ]
